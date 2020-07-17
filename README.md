@@ -1,5 +1,5 @@
 # Vue-dashboard
-Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofont.
+Projeto de um dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofont.
 
 ## Instalação
 - Baixe o repositório como arquivo zip ou faça um clone;

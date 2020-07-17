@@ -2,6 +2,8 @@
 Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofont.
 
 ## Instalação
+- Baixe o repositório como arquivo zip ou faça um clone;
+- Execute os comandos abaixo.
 ```
 npm install
 npm run dev

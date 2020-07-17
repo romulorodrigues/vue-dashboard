@@ -1,5 +1,5 @@
 # Vue-dashboard
-Modelo de dashboard responsivo para sistemas.
+Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofont para sistemas.
 
 ## Instalação
 ```

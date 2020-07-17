@@ -4,9 +4,15 @@ Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofo
 ## Instalação
 ```
 npm install
+npm run dev
 ```
-## Dependências
+## Grid
+O BoostrapVue foi utilizado para deixar o layout responsivo.
+Mais detalhes: https://bootstrap-vue.org/
 
+## Ícones
+Os ícones utilizados no dashboard são do icofont.
+Mais detalhes: https://icofont.com/
 
 ## Layout
 

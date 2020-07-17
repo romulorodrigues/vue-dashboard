@@ -7,11 +7,11 @@ npm install
 npm run dev
 ```
 ## Grid
-O BoostrapVue foi utilizado para deixar o layout responsivo.
+O [BoostrapVue](https://bootstrap-vue.org/) foi utilizado para deixar o layout responsivo.
 Mais detalhes: https://bootstrap-vue.org/
 
 ## Ícones
-Os ícones utilizados no dashboard são do icofont.
+Os ícones utilizados no dashboard são do [icofont](https://icofont.com/).
 Mais detalhes: https://icofont.com/
 
 ## Layout

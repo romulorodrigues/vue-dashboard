@@ -13,7 +13,7 @@ npm install
 npm run serve
 ```
 ## Grid
-O [BoostrapVue](https://bootstrap-vue.org/) foi utilizado para o layout responsivo.
+O [BoostrapVue](https://bootstrap-vue.org/) foi utilizado para o layout responsivo e alguns componentes.
 Mais detalhes: https://bootstrap-vue.org/
 
 ## Ícones

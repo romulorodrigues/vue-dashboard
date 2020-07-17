@@ -1,19 +1,26 @@
-# vue-dashboard
+# Vue-dashboard
+Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofont.
 
-## Project setup
+## Instalação
+- Baixe o repositório como arquivo zip ou faça um clone;
+- Execute os comandos abaixo.
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
+## Grid
+O [BoostrapVue](https://bootstrap-vue.org/) foi utilizado para o layout responsivo.
+Mais detalhes: https://bootstrap-vue.org/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Ícones
+Os ícones utilizados no dashboard são do [icofont](https://icofont.com/).
+Mais detalhes: https://icofont.com/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Layout
+
+![alt text](https://atividadeon.com.br/static/img/dashboard-vue.png)
+
+# Licença
+
+The MIT License (MIT)
+

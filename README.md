@@ -3,6 +3,7 @@ Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofo
 
 ## Instalação
 - Baixe o repositório como arquivo zip ou faça um clone;
+- Acesse a pasta do projeto vue-dashboard;
 - Execute os comandos abaixo.
 ```
 npm install

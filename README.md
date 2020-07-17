@@ -22,5 +22,3 @@ Mais detalhes: https://icofont.com/
 
 The MIT License (MIT)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -6,7 +6,7 @@ Layout de dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofo
 - Execute os comandos abaixo.
 ```
 npm install
-npm run dev
+npm run serve
 ```
 ## Grid
 O [BoostrapVue](https://bootstrap-vue.org/) foi utilizado para o layout responsivo.

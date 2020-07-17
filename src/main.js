@@ -2,6 +2,17 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 
+import { BootstrapVue } from 'bootstrap-vue'
+
+import './assets/css/icofont.min.css';
+import './assets/css/style.css';
+
+// Install BootstrapVue
+Vue.use(BootstrapVue)
+
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+
 Vue.config.productionTip = false
 
 new Vue({

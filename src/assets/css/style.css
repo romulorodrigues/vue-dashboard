@@ -1,0 +1,35 @@
+body{
+    background-color: #EBEFF9;
+}
+
+.dashboard{
+    padding: 30px !important;
+}
+
+.card {
+    margin-bottom: 30px;
+    border: none;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    letter-spacing: 0.5px;
+    -webkit-box-shadow: 0 0 37px rgba(8,21,66,0.05);
+    box-shadow: 0 0 37px rgba(8,21,66,0.05);
+    border: none !important;
+}
+
+.card .card-body .media-body{
+    text-align: left;
+}
+
+.card .media i{
+    font-size: 60px;
+}
+
+@media(max-width: 768px){
+    .dashboard {
+        padding: 20px !important;
+    }
+    .card {
+        margin-bottom: 15px;
+    }
+}

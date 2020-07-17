@@ -1,6 +1,9 @@
 # Vue-dashboard
 Projeto de um dashboard responsivo utizando as tecnologias Vue, BootstrapVue e icofont.
 
+# Demo
+[Demo](https://vue-dashboard-omega.vercel.app/#/)
+
 ## Instalação
 - Baixe o repositório como arquivo zip ou faça um clone;
 - Acesse a pasta do projeto vue-dashboard;

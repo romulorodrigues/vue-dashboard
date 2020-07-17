@@ -18,16 +18,6 @@ Mais detalhes: https://icofont.com/
 
 ![alt text](https://atividadeon.com.br/static/img/dashboard-vue.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
 # Licença
 
 The MIT License (MIT)

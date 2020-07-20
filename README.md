@@ -13,12 +13,11 @@ npm install
 npm run serve
 ```
 ## Grid
-O [BoostrapVue](https://bootstrap-vue.org/) foi utilizado para o layout responsivo e alguns componentes.
-Mais detalhes: https://bootstrap-vue.org/
+O [BoostrapVue](https://bootstrap-vue.org/) was used for the responsive layout and some components. More details: https://bootstrap-vue.org/
 
-## Ícones
-Os ícones utilizados no dashboard são do [icofont](https://icofont.com/).
-Mais detalhes: https://icofont.com/
+## Icons
+The icons used in the dashboard are from [icofont](https://icofont.com/).
+More details: https://icofont.com/
 
 ## Layout
 

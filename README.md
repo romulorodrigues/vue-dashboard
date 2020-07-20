@@ -23,7 +23,7 @@ More details: https://icofont.com/
 
 ![alt text](https://atividadeon.com.br/static/img/dashboard-vue.png)
 
-# Licença
+# License
 
 The MIT License (MIT)
 

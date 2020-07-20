@@ -1,7 +1,7 @@
 # Vue-dashboard
 Responsive dashboard design using Vue, BootstrapVue and icofont technologies.
 
-# Demo
+## Demo
 [Demo](https://vue-dashboard-omega.vercel.app/#/)
 
 ## Installation
